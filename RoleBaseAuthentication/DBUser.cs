@@ -4,7 +4,7 @@ using System.Data;
 
 public class DBUser
 {
-    string ConnectionString = "server=localhost;user=root;password=aliraxa229;database=auth";
+    string ConnectionString = "server=localhost;user=root;password=aliraxa229;database=auth;";
 
     public DBUser()
     {
